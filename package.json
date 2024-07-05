@@ -1,0 +1,26 @@
+{
+  "name": "growi-plugin-templates-for-template",
+  "version": "1.0.0",
+  "description": "GROWI template plugin for template",
+  "license": "MIT",
+  "keywords": [
+    "growi",
+    "growi-plugin"
+  ],
+  "type": "module",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "growiPlugin": {
+    "schemaVersion": "4",
+    "types": [
+      "template"
+    ],
+    "locales": [
+      "en_US", "ja_JP"
+    ]
+  }
+}
